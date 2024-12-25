@@ -1,10 +1,10 @@
 Hello everyone, my name is Steve, it's my first Youtube video.
 
-# Intruduce myself
+*Intruduce myself*
 
 I am a programmer and live in Shanghai, i have been working in Bilibili company for 4 years now. Do you hear about Bilibili? It can be said that it's a Chinese Youtube. The Youtube is a platform with global users, so i think it's more interting and i can make friends with different cultural backgrounds.
 
-# Why i want to make the video?
+*Why i want to make the video?*
 
 Firstly, i make the video for practicing my spoken English. Actutally, as a 33 years ago man, i has never been abroad before. I every want to go abroad and see the world. So i want to improve spoken English and plan to visit the UK in 2025. Are you live in UK? Can you give me some suggestion?
 
