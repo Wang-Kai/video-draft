@@ -2,7 +2,7 @@ Hello everyone, my name is Steve, it's my first Youtube video.
 
 **Intruduce myself**
 
-I am a programmer and live in Shanghai, i've been working at Bilibili company for 4 years now. Do you hear of Bilibili? It can be said that it's a Chinese Youtube. Youtube is a platform with global users, so i think it's more interting and i can connect with people from different cultural backgrounds.
+I am a programmer and live in Shanghai, i've been working at Bilibili company for 4 years now. Do you hear of Bilibili? It can be said that it's a Chinese Youtube. Youtube is a platform with global users, so i think it's more interesting and i can connect with people from different cultural backgrounds.
 
 **Why i want to make the video?**
 
